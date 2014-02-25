@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="loc_update_interval">30000</integer>
+
+    <!-- Default enable dialog -->
+    <string name="loc_enable_dialog_title">Местоположение недоступно</string>
+    <string name="loc_enable_dialog_message">Чтобы задействовать дополнительные функции программы, нужно включить определние местоположения на устройстве</string>
+    <string name="loc_enable_dialog_ok_button">ОК</string>
+    <string name="loc_enable_dialog_no_button">Не нужно</string>
+</resources>
